@@ -1,0 +1,132 @@
+body{
+    margin: 1px;
+}
+p{
+
+    text-align: center;
+    /* FONT */
+    font-size: 185%;
+    font-family: "Madimi One";
+    font-style: normal;
+    /* COLOR */
+    color: blue;
+    background-color: greenyellow;
+    /* BORDER */
+    border: 5px;
+    border-radius: 10px;
+    border-color: black;
+    border-style: outset;
+
+    margin-top: 25px;
+    margin-left: 40px;
+    width: 1360px;
+}
+
+#python{
+    /* FONT */
+    font-family: 'Courier New', Courier, monospace;
+    /* COLOR */
+    color:rgb(252, 255, 68);
+    background-color: rgb(83, 155, 223) ;
+
+    /* TEXT POSITION */
+    margin-top: 45px;
+    margin-bottom: 100px;
+    margin-right: 1350px;
+    margin-left: 99px;
+
+    width: 265px;
+    /* BORDER */
+    border: 5px;
+    border-style: outset;
+    border-color: aquamarine;
+    padding-left: 150px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+
+#html{
+    /* FONT */
+    font-family: 'Courier New', Courier, monospace;
+    /* COLOR */
+    color:rgb(255, 255, 255);
+    background-color: rgb(196, 143, 0) ;
+
+    /* TEXT POSITION */
+    margin-top: -143px;
+    margin-bottom: 100px;
+    margin-left: 560px;
+
+    width: 222px;
+    /* BORDER */
+    border: 5px;
+    border-style: outset;
+    border-color: rgb(240, 175, 35);
+    padding-left: 150px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+
+#css{
+    /* FONT */
+    font-family: 'Courier New', Courier, monospace;
+    /* COLOR */
+    color:rgb(255, 255, 255);
+    background-color: rgb(73, 121, 253) ;
+
+    /* TEXT POSITION */
+    margin-top: -143px;
+    margin-bottom: 100px;
+    margin-left: 979px;
+
+    width: 210px;
+    /* BORDER */
+    border: 5px;
+    border-style: outset;
+    border-color: rgb(75, 169, 231);
+    padding-left: 151px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+
+#img{
+    position: absolute;
+    padding-top: 110px;
+    padding-left: 212px;
+
+    width: 205px;
+    height: 219px;
+}
+
+#img2{
+    position: absolute;
+    padding-top: 95px;
+    padding-left: 632px;
+
+    width: 240px;
+    height: 219px;
+}
+
+#img3{
+    position: absolute;
+    padding-top: 120px;
+    padding-left: 1079px;
+
+    width: 175px;
+    height: 165px;
+}
+
+#a{
+    position: absolute;
+    top: 620px;
+    font-size: 255%;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    margin-left: 555px;
+}
